@@ -1,0 +1,3 @@
+com.example.olx.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
